@@ -1,0 +1,85 @@
+Locality,Site,SampleID,Year,Location,Location_b,Coral,Coralline algae,Foram,Halimeda,Homotrema,Intraclast,Mollusk,Octocoral,Urchin
+Akumal,Dicks,D1_G_26,2021,G,0,44.5,15,7,9.5,0,13.5,5.5,3.5,1.5
+Akumal,Dicks,D1_G_61,2021,G,0,26.5,23,17,9,0.5,13,7.5,2,1.5
+Akumal,Dicks,D2_G_14,2021,G,0,43,13,7.5,9,2,18.5,3.5,1,2.5
+Akumal,Dicks,D2_G_92,2021,G,0,19,17.5,18,12.5,4.5,14.5,4.5,3,6.5
+Akumal,Dicks,D3_G_15,2021,G,0,36.5,20,11.5,12.5,1,11,3.5,1,3
+Akumal,Dicks,D3_G_56,2021,G,0,22.5,12.5,13,16,3,12.5,11.5,1.5,7.5
+Akumal,Dicks,D4_G_4,2021,G,0,41.5,25,7.5,9.5,2,10,3,1,0.5
+Akumal,Dicks,D4_G_70,2021,G,0,27.5,31,11.5,10,2.5,11,3,2.5,1
+Akumal,Dicks,D5_G_16,2021,G,0,41.5,18.5,7,7.5,2.5,14.5,5.5,1.5,1.5
+Akumal,Dicks,D5_G_27,2021,G,0,22.5,26,19,12,1,9.5,5,3,2
+Akumal,Dicks,D6_G_22,2021,G,0,40,10.5,3.5,17,1,17.5,8.5,1,1
+Akumal,Dicks,D6_G_30,2021,G,0,24,22.5,18.5,17,2,7,5,1.5,2.5
+Akumal,Langosta,L1_G_6,2021,G,0,21,20.5,22,9,2.5,8.5,10,2,4.5
+Akumal,Langosta,L1_G_82,2021,G,0,34.5,18.5,11,12.5,0.5,11,9.5,2.5,0
+Akumal,Langosta,L2_G_93,2021,G,0,21.5,20,21,11,1,14.5,6,2.5,2.5
+Akumal,Langosta,L2_G_96,2021,G,0,35,20,12,7.5,0,14,9,2,0.5
+Akumal,Langosta,L3_G_28,2021,G,0,22,31.5,15.5,11,0.5,10,5,1,3.5
+Akumal,Langosta,L3_G_77,2021,G,0,48.5,10.5,5.5,4,0.5,16.5,10,2.5,2
+Akumal,Langosta,L4_G_33,2021,G,0,20,32,11,15,2.5,5,9,4.5,1
+Akumal,Langosta,L4_G_41,2021,G,0,42.5,7.5,7.5,7,3.5,23.5,6.5,1.5,0.5
+Akumal,Langosta,L5_G_68,2021,G,0,23,24,10.5,17,0.5,6,11.5,4,3.5
+Akumal,Langosta,L5_G_86,2021,G,0,38,15,9,11,0.5,13.5,7,2.5,3.5
+Akumal,Langosta,L6_G_60,2021,G,0,42,17.5,4,10,0,16,7,1.5,2
+Akumal,Langosta,L6_G_73,2021,G,0,17.5,23,19,15,0.5,11.5,6.5,2,5
+Akumal,Yal Ku,YK1_G_8,2021,G,0,27.5,26,7,11.5,0,15,9.5,3,0.5
+Akumal,Yal Ku,YK1_G_48,2021,G,0,29,17,8,20,0,14.5,10,0,1.5
+Akumal,Yal Ku,YK2_G_39,2021,G,0,32,19.5,9,16.5,1,11.5,9,1.5,0
+Akumal,Yal Ku,YK2_G_50,2021,G,0,33,18,5.5,14.5,0.5,15.5,11.5,0.5,1
+Akumal,Yal Ku,YK3_G_54,2021,G,0,32.5,13,5.5,20,0,19,9,0.5,0.5
+Akumal,Yal Ku,YK3_G_65,2021,G,0,34.5,22,5,11,1.5,17,7,1.5,0.5
+Akumal,Yal Ku,YK4_G_34,2021,G,0,33,19,5.5,14.5,0,15.5,11,1,0.5
+Akumal,Yal Ku,YK4_G_74,2021,G,0,25.5,24,13,13,1.5,14,5.5,1.5,2
+Akumal,Yal Ku,YK5_G_10,2021,G,0,27,29,10.5,11,2.5,9.5,9,1,0.5
+Akumal,Yal Ku,YK5_G_95,2021,G,0,30,19,10.5,14.5,4,14,5.5,0.5,2
+Akumal,Yal Ku,YK6_G_46,2021,G,0,27.5,22.5,10.5,13.5,3.5,15,5,2,0.5
+Akumal,Yal Ku,YK6_G_76,2021,G,0,29.5,20.5,11,14.5,3.5,10,7.5,1.5,2
+Punta Allen,Punta Allen N,PN1_G_133,2021,G,0,25,12.5,7.5,24,1.5,16.5,10,1,2
+Punta Allen,Punta Allen N,PN1_G_163,2021,G,0,22.5,19.5,12.5,17,1,15.5,5.5,2,4.5
+Punta Allen,Punta Allen N,PN2_G_131,2021,G,0,27.5,16,8,21,1,14.5,7.5,2,2.5
+Punta Allen,Punta Allen N,PN2_G_181,2021,G,0,23.5,17.5,9,22.5,0.5,18.5,5.5,2,1
+Punta Allen,Punta Allen N,PN3_G_126,2021,G,0,33,17,9,18.5,1.5,11,6.5,2,1.5
+Punta Allen,Punta Allen N,PN3_G_182,2021,G,0,23,19,5,28,1,11,9.5,2,1.5
+Punta Allen,Punta Allen N,PN4_G_5,2021,G,0,34,19,4.5,20,0.5,14.5,3.5,3,1
+Punta Allen,Punta Allen N,PN4_G_138,2021,G,0,33.5,24,6,10,2,15,7.5,1,1
+Punta Allen,Punta Allen N,PN5_G_187,2021,G,0,25.5,18,6.5,28,0,16,5.5,0.5,0
+Punta Allen,Punta Allen N,PN5_G_199,2021,G,0,34,17,8.5,18.5,0.5,14.5,4.5,1,1.5
+Punta Allen,Punta Allen N,PN6_G_101,2021,G,0,32.5,15.5,6.5,21.5,0.5,18,4.5,0.5,0.5
+Punta Allen,Punta Allen N,PN6_G_106,2021,G,0,31,17.5,5,21.5,1.5,16,7,0,0.5
+Punta Allen,Punta Allen C,PC1_G_143,2021,G,0,18.5,18,9.5,19,3.5,18.5,7.5,1,4.5
+Punta Allen,Punta Allen C,PC1_G_155,2021,G,0,35,21,6.5,18,0.5,12,4,1.5,1.5
+Punta Allen,Punta Allen C,PC2_G_175,2021,G,0,31,18,6,17,1.5,17.5,6,1,2
+Punta Allen,Punta Allen C,PC2_G_192,2021,G,0,24.5,18.5,16,20.5,1,10.5,5,1.5,2.5
+Punta Allen,Punta Allen C,PC3_G_114,2021,G,0,24,16.5,5.5,27,0.5,21.5,3.5,0.5,1
+Punta Allen,Punta Allen C,PC3_G_141,2021,G,0,25,18,10,22.5,1.5,11,6.5,1.5,4
+Punta Allen,Punta Allen C,PC4_G_122,2021,G,0,26,17.5,7.5,25.5,0.5,19.5,3,0,0.5
+Punta Allen,Punta Allen C,PC4_G_137,2021,G,0,22,14,7,32.5,0,14.5,8,0,2
+Punta Allen,Punta Allen C,PC5_G_120,2021,G,0,26,13.5,7,27.5,0,16,5,2,3
+Punta Allen,Punta Allen C,PC5_G_166,2021,G,0,28,17.5,10,21.5,1.5,11.5,6.5,1.5,2
+Punta Allen,Punta Allen C,PC6_G_117,2021,G,0,25,17.5,6,23,1,17.5,6,0.5,3.5
+Punta Allen,Punta Allen C,PC6_G_177,2021,G,0,20,18,5,28,0.5,20,7.5,0.5,0.5
+Punta Allen,San Antonio,SA1_G_160,2021,G,0,18.5,10,11.5,35,3.5,14,3,1,3.5
+Punta Allen,San Antonio,SA1_G_186,2021,G,0,19.5,14.5,6,30.5,1.5,17,9,0,2
+Punta Allen,San Antonio,SA2_G_149,2021,G,0,29.5,14,6,25.5,1,17.5,3.5,1,2
+Punta Allen,San Antonio,SA2_G_195,2021,G,0,17,15.5,6.5,37.5,2,12.5,6,1,2
+Punta Allen,San Antonio,SA3_G_150,2021,G,0,17,14,5,33.5,1.5,17.5,8.5,1,2
+Punta Allen,San Antonio,SA3_G_188,2021,G,0,21.5,17.5,3,30.5,1.5,15.5,7.5,1,2
+Punta Allen,San Antonio,SA4_G_107,2021,G,0,32,20.5,2.5,23,0.5,15,3.5,2,1
+Punta Allen,San Antonio,SA4_G_185,2021,G,0,28.5,18,4,30,0,13,4,0.5,2
+Punta Allen,San Antonio,SA5_G_130,2021,G,0,20,16.5,4.5,33,0.5,14,7.5,1,3
+Punta Allen,San Antonio,SA5_G_162,2021,G,0,28.5,18.5,2.5,21,1,21,5,0.5,2
+Punta Allen,San Antonio,SA6_G_148,2021,G,0,30.5,20.5,3.5,16.5,1,14,8.5,2.5,3
+Punta Allen,San Antonio,SA6_G_173,2021,G,0,29.5,27,3,17.5,1,14,6,1,1
+Punta Maroma,Mar F5,PM1_G_47,2021,G,0,35,16.5,4,4,1,29,8.5,1.5,0.5
+Punta Maroma,Mar F5,PM1_G_49,2021,G,0,40.5,17.5,2.5,1,0.5,28.5,7,2.5,0.5
+Punta Maroma,Mar F5,PM2_G_42,2021,G,0,35.5,14,4,2,2,31.5,7,0.5,3.5
+Punta Maroma,Mar F5,PM2_G_57,2021,G,0,32.5,13.5,8,4.5,1.5,27,9,1.5,2.5
+Punta Maroma,Mar F5,PM3_G_11,2021,G,0,41,12.5,4,2,1.5,24.5,12.5,0.5,1.5
+Punta Maroma,Mar F5,PM3_G_17,2021,G,0,38.5,10.5,1.5,4,4,30.5,9,0,2
+Punta Maroma,Mar F5,PM4_G_35,2021,G,0,43,13,2.5,2,0.5,31,5,0.5,2.5
+Punta Maroma,Mar F5,PM4_G_9,2021,G,0,30.5,14,4.5,3.5,3.5,32.5,8,1,2.5
+Punta Maroma,Mar F5,PM5_G_55,2021,G,0,41,17.5,6.5,3,0,24.5,7,0.5,0
+Punta Maroma,Mar F5,PM5_G_53,2021,G,0,41,17,6.5,2.5,0.5,25,5.5,1.5,0.5
+Punta Maroma,Mar F5,PM6_G_32,2021,G,0,34,18.5,4.5,5.5,2,26.5,5.5,0.5,3
+Punta Maroma,Mar F5,PM6_G_18,2021,G,0,36,15,5.5,3,1,28,8,2.5,1
